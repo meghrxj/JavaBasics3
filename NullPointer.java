@@ -4,6 +4,7 @@ public class NullPointer {
         String a = null;
         System.out.println(a.length());
 
+        
 
     }
 }
