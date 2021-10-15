@@ -15,7 +15,7 @@ public class HashSet1 {
         //h.clear(); 
         System.out.println(h.contains("spider monkey"));
         System.out.println(h);
-
+        
 
     }
 }
