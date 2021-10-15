@@ -1,5 +1,5 @@
 import java.util.HashMap;
-public class HashMap {
+public class HashMapAwes {
 
     public static void main(String[] args) {
 
@@ -9,12 +9,12 @@ public class HashMap {
     //what if we have millions variables?
 
         //HASHMap
-        HashMap happy = new HashMap();
+        HashMap<String, Integer> happy = new HashMap<String, Integer>();
 
             happy.put("a", 10);
             happy.put("b", 88);
             happy.put("c", 3);;
 
-
+        System.out.println(happy.get("c"));
     }
 }
